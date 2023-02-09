@@ -4,15 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudan-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudan-kulkarni" /> </p>
 
-<!--  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhusudan-kulkarni" alt="madhusudan-kulkarni" /></a> </p>
--->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhusudan-kulkarni" alt="madhusudan-kulkarni" /></a> </p> -->
 
-<--
 <p align="left"> <a href="https://twitter.com/madhvsvdan" target="blank"><img src="https://img.shields.io/twitter/follow/madhvsvdan?logo=twitter&style=for-the-badge" alt="madhusudan-kulkarni" /></a> </p>
--->
 
-- 🌱 I’m currently learning full stack development @[neogcamp](https://github.com/neogcamp)
+- 🌱 I’m currently learning **full stack development @neogcamp**
 
 - 👨‍💻 You can check my portfolio at [madhusudan.netlify.app](https://madhusudan.netlify.app/)
 
