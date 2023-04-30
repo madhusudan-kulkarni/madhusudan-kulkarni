@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madhusudan</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Madhusudan Kulkarni</h1>
+<h3 align="center">A software developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhusudan-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="madhusudan-kulkarni" /> </p>
