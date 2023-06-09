@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhusudan-kulkarni&show_icons=true&theme=none&locale=en" alt="firstname" /></p>
  -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhusudan-kulkarni&" alt="firstname" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=madhusudan-kulkarni&hide_border=true&border_radius=5&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
