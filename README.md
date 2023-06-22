@@ -1,4 +1,4 @@
-<h1 align="center">Madhusudan Kulkarni</h1>
+<h1 align="center">Madhusudan K Kulkarni</h1>
 <h3 align="center">👨‍💻Software Developer ⚛ React</h3>
 
 
